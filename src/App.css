@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+.loader-container{
+  width:20%;
+  margin-left: 40%;
+}
+.confirmation-container{
+  width:20%;
+  margin-left: 40%;
+}

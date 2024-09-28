@@ -1,0 +1,16 @@
+.home {
+    text-align: center;
+    margin: 50px;
+  }
+  
+  .home h1 {
+    font-size: 3em;
+    color: #4e342e;
+  }
+  
+  .home p {
+    font-family: 'Poppins', sans-serif;
+    font-size: 1.5em;
+    color: #4e342e;
+  }
+  
